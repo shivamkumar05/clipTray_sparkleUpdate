@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ClipTray Updates</title>
+        <link>https://shivamkumar05.github.io/clipTray_sparkleUpdate/appcast.xml</link>
+        <description>Most recent updates to ClipTray</description>
+        <language>en</language>
+        
+        <item>
+            <title>Version 1.0</title>
+            <link>https://github.com/shivamkumar05/clipTray_sparkleUpdate</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>ClipTray 1.0</h2>
+                <p>Initial release</p>
+            ]]></description>
+            <pubDate>Mon, 14 Oct 2024 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
