@@ -7,15 +7,21 @@
         <language>en</language>
         
         <item>
-            <title>Version 1.0</title>
+            <title>Version 1.1</title>
             <link>https://github.com/shivamkumar05/clipTray_sparkleUpdate</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>ClipTray 1.0</h2>
+                <h2>ClipTray 1.1</h2>
                 <p>Initial release</p>
             ]]></description>
             <pubDate>Mon, 14 Oct 2024 12:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://github.com/shivamkumar05/clipTray_sparkleUpdate/releases/download/v1.0/ClipTray.app.zip"
+                sparkle:version="1.0"
+                sparkle:shortVersionString="1.0"
+                length="2542419"
+                type="application/octet-stream" />
         </item>
     </channel>
 </rss>
