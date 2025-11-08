@@ -1,30 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ClipTray Updates</title>
-        <link>https://shivamkumar05.github.io/clipTray_sparkleUpdate/appcast.xml</link>
-        <description>Most recent updates to ClipTray</description>
-        <language>en</language>
-        
+        <title>ClipTray</title>
         <item>
-            <title>Version 1.1</title>
-            <link>https://github.com/shivamkumar05/clipTray_sparkleUpdate</link>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <description><![CDATA[
-                <h2>ClipTray 1.1</h2>
-                <ul>
-                    <li>Bug fixes and improvements</li>
-                    <li>Performance enhancements</li>
-                </ul>
-            ]]></description>
-            <enclosure 
-                url="https://github.com/shivamkumar05/clipTray_sparkleUpdate/releases/download/v1.0/cliptraysparkle.dmg"
-                sparkle:version="1.1"
-                sparkle:shortVersionString="1.1"
-                length="9193810"
-                type="application/octet-stream" />
-            <pubDate>Sat, 18 Oct 2025 19:30:00 +0000</pubDate>
+            <title>1.0</title>
+            <pubDate>Sat, 08 Nov 2025 02:22:07 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://shivamkumar05.github.io/clipTray_sparkleUpdate/cliptraysparkle.dmg" length="9193810" type="application/octet-stream" sparkle:edSignature="m2vCOMFU+c5InFcsDFlhH24kQI0xtjYczbliqEMek14P5cav9Iv0zt15QeAqbiVKXwp8j8RtkAXwwTMYh2aRDw=="/>
         </item>
     </channel>
 </rss>
