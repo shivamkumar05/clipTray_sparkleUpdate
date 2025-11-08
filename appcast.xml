@@ -4,11 +4,11 @@
         <title>ClipTray</title>
         <item>
             <title>1.4</title>
-            <pubDate>Sat, 08 Nov 2025 15:44:20 +0530</pubDate>
-            <sparkle:version>1.2</sparkle:version>
+            <pubDate>Sat, 08 Nov 2025 18:38:27 +0530</pubDate>
+            <sparkle:version>1.4</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shivamkumar05/clipTray_sparkleUpdate/releases/download/v1.4/cliptraysparkle.dmg" length="9193775" type="application/octet-stream" sparkle:edSignature="llVjFNpQ79QQ58dmmcoxGlht5i5+buNobxxDWxO3oDrDoZpx6qRbvV3gP3HbI6wW8Fwd7Ig2CqdEpiVuBAxoAw=="/>
+            <enclosure url="https://shivamkumar05.github.io/clipTray_sparkleUpdate/cliptraysparkle.dmg" length="9189903" type="application/octet-stream" sparkle:edSignature="+StAR8hoVzoM1bxkM63q/VqEuqCEVhlSijq6p8EbA01mt6jPKSAM3ziLCxM6HiDHrkEH39wL6M2O0ggzAuHXBQ=="/>
         </item>
     </channel>
 </rss>
