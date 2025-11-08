@@ -8,7 +8,7 @@
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://shivamkumar05.github.io/clipTray_sparkleUpdate/cliptraysparkle.dmg" length="9193775" type="application/octet-stream" sparkle:edSignature="llVjFNpQ79QQ58dmmcoxGlht5i5+buNobxxDWxO3oDrDoZpx6qRbvV3gP3HbI6wW8Fwd7Ig2CqdEpiVuBAxoAw=="/>
+            <enclosure url="https://github.com/shivamkumar05/clipTray_sparkleUpdate/releases/download/v1.4/cliptraysparkle.dmg" length="9193775" type="application/octet-stream" sparkle:edSignature="llVjFNpQ79QQ58dmmcoxGlht5i5+buNobxxDWxO3oDrDoZpx6qRbvV3gP3HbI6wW8Fwd7Ig2CqdEpiVuBAxoAw=="/>
         </item>
     </channel>
 </rss>
